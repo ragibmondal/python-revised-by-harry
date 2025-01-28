@@ -1,5 +1,5 @@
-# Write a python program to display a user entered name followed by Good 
-# Afternoon using input () function.
+# # Write a python program to display a user entered name followed by Good 
+# # Afternoon using input () function.
 ex=input("Enter Your Name:")
 import pyttsx3
 kumar=pyttsx3.init()
