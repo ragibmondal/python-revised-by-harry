@@ -1,0 +1,16 @@
+#Write a program to store seven marks in a list entered by the user.
+marks=[]
+f1=int(input("Enter marks Name: "))
+marks.append(f1)
+f2=int(input("Enter marks Name: "))
+marks.append(f2)
+f3=int(input("Enter marks Name: "))
+marks.append(f3)
+f4=int(input("Enter marks Name: "))
+marks.append(f4)
+f5=int(input("Enter marks Name: "))
+marks.append(f5)
+f6=int(input("Enter marks Name: "))
+marks.append(f6)
+marks.sort()
+print(marks)
